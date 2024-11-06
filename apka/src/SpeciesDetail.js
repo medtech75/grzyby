@@ -20,7 +20,7 @@ function SpeciesDetail() {
         images.map(image => (
           <img
             key={image}
-            src={`/images/${decodedName}/${image}`}
+            src={`/grzyby/images/${decodedName}/${image}`}
             alt={displayName}
             style={{ width: '300px', margin: '10px' }}
           />

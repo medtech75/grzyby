@@ -16,9 +16,9 @@ function SpeciesList() {
       <ul>
         {speciesKeys.map(key => (
           <li key={key}>
-          <Link to={`/species/${encodeURIComponent(key)}`}>
-            {formatSpeciesName(key)}
-          </Link>
+            <Link to={`/grzyby/species/${encodeURIComponent(key)}`}>
+              {formatSpeciesName(key)}
+            </Link>
           </li>
         ))}
       </ul>

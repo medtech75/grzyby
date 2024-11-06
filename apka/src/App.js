@@ -7,8 +7,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<SpeciesList />} />
-        <Route path="/species/:name" element={<SpeciesDetail />} />
+        <Route path="/grzyby/" element={<SpeciesList />} />
+        <Route path="/grzyby/species/:name" element={<SpeciesDetail />} />
       </Routes>
     </Router>
   );
