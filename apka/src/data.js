@@ -108,7 +108,7 @@ const data = {
       "PHOTO-2024-10-20-10-19-06.jpg"
     ],
     "włosianka": [
-      "IMG_1354.jpg",
+      "IMG_1354.jpeg",
       "PHOTO-2024-10-20-10-00-55.jpg"
     ],
     "zasłonak_purpurowoblaszkowy": [
