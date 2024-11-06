@@ -21,10 +21,10 @@ const data = {
       "PHOTO-2024-10-20-11-51-27.jpg"
     ],
     "gąska_ognista": [
-      "IMG_1374.jpeg",
-      "IMG_1375.jpeg",
-      "IMG_1376.jpeg",
-      "IMG_1377.jpeg"
+      "IMG_1374.jpg",
+      "IMG_1375.jpg",
+      "IMG_1376.jpg",
+      "IMG_1377.jpg"
     ],
     "gąska_topolowa": [
       "PHOTO-2024-10-20-10-34-14.jpg",
@@ -68,7 +68,7 @@ const data = {
       "PHOTO-2024-10-20-10-03-24.jpg"
     ],
     "mleczaj_rudy": [
-      "IMG_1378.jpeg",
+      "IMG_1378.jpg",
       "PHOTO-2024-10-20-12-08-50.jpg"
     ],
     "mleczaj_rydz": [
@@ -76,12 +76,10 @@ const data = {
       "PHOTO-2024-10-20-11-10-28.jpg"
     ],
     "mleczaj_wełnianka": [
-      "IMG_1365.jpeg",
       "PHOTO-2024-10-20-11-28-44.jpg",
-      "PHOTO-2024-10-20-11-41-21.jpg"
     ],
     "mleczaj_zmienny": [
-      "IMG_1367.jpeg",
+      "IMG_1367.jpg",
       "PHOTO-2024-10-20-11-42-15.jpg"
     ],
     "monetnica_bukowa": [
@@ -106,17 +104,15 @@ const data = {
       "PHOTO-2024-10-20-13-27-49.jpg"
     ],
     "wilgotnica_papuzia": [
-      "IMG_1396.jpeg",
-      "IMG_1397.jpeg",
       "PHOTO-2024-10-20-10-19-06 (1).jpg",
       "PHOTO-2024-10-20-10-19-06.jpg"
     ],
     "włosianka": [
-      "IMG_1354.jpeg",
+      "IMG_1354.jpg",
       "PHOTO-2024-10-20-10-00-55.jpg"
     ],
     "zasłonak_purpurowoblaszkowy": [
-      "IMG_1383.jpeg",
+      "IMG_1383.jpg",
       "PHOTO-2024-10-20-12-16-21.jpg"
     ],
     "żagwica_listkowata": [
