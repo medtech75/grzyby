@@ -1,9 +1,9 @@
 const data = {
-    "borowiec_dęty": [
-      "PHOTO-2024-10-20-12-16-21.jpg",
-      "PHOTO-2024-10-20-12-32-35 (1).jpg",
-      "PHOTO-2024-10-20-12-32-35 (2).jpg",
-      "PHOTO-2024-10-20-12-32-35.jpg"
+    "borowiec_dęty": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg"
     ],
     "błyskoporek_podkorowy": [
       "PHOTO-2024-10-20-13-26-44.jpg"
@@ -124,7 +124,8 @@ const data = {
       "PHOTO-2024-10-20-13-04-21.jpg"
     ]
   };
+
   
-  
-  export default data;
+export default data;
+
   
